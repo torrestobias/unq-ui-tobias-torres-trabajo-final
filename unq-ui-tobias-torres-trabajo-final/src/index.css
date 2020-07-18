@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://www.arielcelaya.com.ar/multimedia/wp-content/uploads/2015/10/FondoLejos.png");
+  background-position: center;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
