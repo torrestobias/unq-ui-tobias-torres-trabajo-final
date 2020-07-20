@@ -2,6 +2,7 @@ import React from 'react';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
 import Juego from './componentes/Juego';
 import Jugador1 from './componentes/Jugador1';
+import Navbar from './componentes/Navbar';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <Switch>
       <Route exact path="/" component ={ Juego } />
       <Route exact path="/jugador1" component = {Jugador1}/>
+      <Route exact path="/navBar" component = {Navbar}/>
       <Route path="*" render= {() => <h1>Not Found</h1>} />
     </Switch>
   </BrowserRouter>

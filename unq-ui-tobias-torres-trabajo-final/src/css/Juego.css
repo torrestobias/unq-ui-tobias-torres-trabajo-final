@@ -2,10 +2,12 @@
     text-align: center;
   }
   
+.juego-container{
+    padding-top: 200px;
+}
+
   .menu-principal{
-      position: relative;
-      left: 500px;
-      top: 300px;
+     
       padding: 50px;
       border-color: black;
       
@@ -24,8 +26,7 @@
   
   .icono-menu{
     height: 100px;
-    position: relative;
-    bottom: 30px;
+    
   }
   
   
