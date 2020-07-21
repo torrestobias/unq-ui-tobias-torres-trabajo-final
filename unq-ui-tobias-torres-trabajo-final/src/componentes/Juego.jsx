@@ -23,6 +23,7 @@ function Juego(){
             </div>
         </div>
         </div>
+        
       </div>
     )
 }

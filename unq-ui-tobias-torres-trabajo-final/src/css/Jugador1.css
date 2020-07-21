@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@800&display=swap');
+
+.jugador1{
+    display: flex;
+    flex-wrap:wrap;
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.puntos-jugadores{
+    font-family: 'Sora', cursive;
+    font-size: 29px;
+    display: flex;
+    justify-content: space-between;;
+}
+
+.elecciones-jugadores{
+    font-family: 'Sora', cursive;
+    font-size: 22px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.boton-img{
+    background-color: pink;
+    border-radius: 20px;
+    border: 2px solid pink;
+    margin: 15px;
+}
+
+.boton-img:hover{
+    transform: scale(1.25); 
+    transition:  all .5s;
+}
+
+.botones{
+    float: center;
+    margin: 20px goldenrod;
+    background-color: pink;
+}
+
+.contenedor-botones{
+    justify-content: center;
+    display: flex;
+}
+
+.resultado{
+    font-family: 'Sora', cursive;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+}
+
+.reinicio-juego{
+    display: flex;
+    justify-content: center;
+}

@@ -1,9 +1,29 @@
-.nav-wrapper{
-    background-color:cornsilk;
-        
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@800&display=swap');
+
+header{
+    background-color: bisque; 
+    border: 1px solid rgb(231, 230, 230);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: 'Chewy', cursive;
 }
 
-.icono-menu-app{
-    height: 50px;
+.titulo {
+    /* display: flex; */
+    justify-content: center;
+    align-content: center;
+    font-size: 25px;
+    /* padding: 10px; */
+    color: black;
+    font-family: 'Sora', cursive;
+}
+
+
+.imagen-header-lg{
+    position: relative;
+    margin-top: 1%;
+    margin-right: 2%;
     
+
 }
