@@ -1,6 +1,6 @@
 # Descarga del Proyecto:
 
-- Descargar el proyecto ejecutando lo siguiente
+-Descargar el proyecto ejecutando lo siguiente
 
 git clone https://github.com/torrestobias/unq-ui-tobias-torres-trabajo-final.git
 
