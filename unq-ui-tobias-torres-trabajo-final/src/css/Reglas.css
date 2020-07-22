@@ -1,24 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
-.Juego {
+.Reglas{
     text-align: center;
-  }
-
-.titulo-juego {
-  font-family: 'Press Start 2P', cursive;
-  font-size: 15px;
-
 }
 
-.juego-container{
-  padding: 100px;
+.reglas-div{
+    margin-top: 43px;
 }
-  
-.menu-principal{
-     
-      padding: 50px;
+
+.titulo-reglas{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    
+}
+
+.imagen-reglas{
+    align-items: center;
+}
+
+
+
+.reglas-juego{
+        padding: 50px;
+
       border-color: black;
-      
       border: 20px;
       background-color:cornsilk;
       -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.3);
@@ -29,10 +32,9 @@
       -moz-border-radius: 10px 10px 10px 10px;
       -webkit-border-radius: 10px 10px 10px 10px;
       border: 0px solid #000000;
-      width: 30%;
-  }
-  
- 
-  
- 
-  
+      width: 600px;
+      height: 522px;
+
+      
+
+}
