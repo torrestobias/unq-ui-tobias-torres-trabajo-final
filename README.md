@@ -1,5 +1,3 @@
-# unq-ui-tobias-torres-trabajo-final
-
 # Descarga del Proyecto:
 
 - Descargar el proyecto ejecutando lo siguiente
