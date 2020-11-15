@@ -117,14 +117,14 @@ function Jugador1 (){
             <Navbar/>
                 <div className="container">
                             <div className="row">
-                            <div className="puntos-jugadores">  
-                                <div>
-                                    Pts Jugador: {puntajeJugador}
+                                <div className="puntos-jugadores">  
+                                    <div>
+                                        Pts Jugador: {puntajeJugador}
+                                    </div>
+                                    <div>
+                                        Pts Cpu: {puntajeComputadora}
+                                    </div>
                                 </div>
-                                <div>
-                                    Pts Cpu: {puntajeComputadora}
-                                </div>
-                            </div>
                             </div>
                         <div className="container-block">
                             <div className="contenedor-botones">

@@ -14,5 +14,5 @@ Luego de esto tendremos instalado npm, lo que resta hacer es:
 
 npm start
 
-Eso es todo para correr el proyecto
+Con esto basta para correr el proyecto
 
